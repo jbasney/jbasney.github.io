@@ -16,3 +16,6 @@ github_username:  jbasney
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
