@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Jim Basney
+#title: Jim Basney
 email: jbasney@illinois.edu
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
