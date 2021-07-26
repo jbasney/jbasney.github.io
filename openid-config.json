@@ -1,5 +1,5 @@
 ---
-permalink: https://jbasney.github.io/openid-config
+permalink: /openid-config
 ---
 {
    "issuer":"https://scitokens.org/ligo",
