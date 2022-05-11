@@ -1,6 +1,6 @@
 This is the source for https://jbasney.github.io/ which uses [GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll) with the [Minima](https://github.com/jekyll/minima) theme.
 
-The site is served from https://jbasney.net/ via CloudFlare.
+The site is served from https://jbasney.net/ via [Cloudflare](https://dash.cloudflare.com/).
 
 Edit [index.html](index.html) to update the home page.
 
